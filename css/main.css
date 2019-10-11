@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/*CSS Doc */
+
+.hidden {
+	display: none;
+}
+
+.align {
+	text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
